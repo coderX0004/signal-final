@@ -1,4 +1,7 @@
-# React + Vite
+live server http://localhost:5173/
+ 
+ 
+ # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
